@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aaa\\Documents\\CourseAPI\\CourseAPI\\CourseAPI.csproj": {}
+    "C:\\Users\\akuang\\OneDrive - Lenovo\\Documents\\CourseAPI\\CourseAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aaa\\Documents\\CourseAPI\\CourseAPI\\CourseAPI.csproj": {
+    "C:\\Users\\akuang\\OneDrive - Lenovo\\Documents\\CourseAPI\\CourseAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aaa\\Documents\\CourseAPI\\CourseAPI\\CourseAPI.csproj",
+        "projectUniqueName": "C:\\Users\\akuang\\OneDrive - Lenovo\\Documents\\CourseAPI\\CourseAPI.csproj",
         "projectName": "CourseAPI",
-        "projectPath": "C:\\Users\\aaa\\Documents\\CourseAPI\\CourseAPI\\CourseAPI.csproj",
-        "packagesPath": "C:\\Users\\aaa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aaa\\Documents\\CourseAPI\\CourseAPI\\obj\\",
+        "projectPath": "C:\\Users\\akuang\\OneDrive - Lenovo\\Documents\\CourseAPI\\CourseAPI.csproj",
+        "packagesPath": "C:\\Users\\akuang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\akuang\\OneDrive - Lenovo\\Documents\\CourseAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\akuang\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
